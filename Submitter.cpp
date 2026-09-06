@@ -687,7 +687,7 @@ namespace seneca {
 #endif
       LogFile flog(logpath.c_str());
       cout << col_grey << "Submitter (V" << SUBMITTER_VERSION << ")" << endl;
-      cout << "by Cameron G. (Last update: " << SUBMITTER_DATE << ")" << endl
+      cout << "by Fardad S. (Last update: " << SUBMITTER_DATE << ")" << endl
          << "===============================================================" << col_end << endl <<
          col_white << "System date and time: " << m_now << col_end << endl << endl;
       // if the command has valid format
